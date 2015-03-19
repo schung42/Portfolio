@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="4104">
+<author>schung42</author>
+<date>2015-03-13T07:55:30.232101Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/schung42/Assignment2.1/Manual Test Plan.pages</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.10-75.png</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.1/Manual Test Plan.pages/Metadata/BuildVersionHistory.plist</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.1/Graph.py</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.12.13 AM-77.png</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.14.07 AM-83.png</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.1/Manual Test Plan.pages/Index.zip</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.13.39 AM-80.png</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.15.44 AM-92.png</path>
+<path
+   kind="dir"
+   action="A">/schung42/Assignment2.1/Manual Test Plan.pages/Data</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.16-96.png</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.1/Manual Test Plan.pages/preview-web.jpg</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.16-99.png</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.08.43 AM-68.png</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.20-108.png</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.15.17 AM-89.png</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.18.50 AM-101.png</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.34.34 AM-120.png</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.41-127.png</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.1/TextUI.py</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.20.57 AM-107.png</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.19.26 AM-104.png</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.41.09 AM-126.png</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.1/StatInfo.py</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.15-90.png</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.04.54 AM-62.png</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.1/Edge.py</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.14-84.png</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.06-66.png</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.15-93.png</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.1/Manual Test Plan.pages/preview-micro.jpg</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.14-87.png</path>
+<path
+   kind="dir"
+   action="A">/schung42/Assignment2.1</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.06.55 AM-65.png</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.09.38 AM-71.png</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.30.02 AM-116.png</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.45-130.png</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.28-114.png</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.1/Main.py</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.37.59 AM-123.png</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.1/Executor.py</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.1/Manual Test Plan.pages/Metadata/DocumentIdentifier</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.13-81.png</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.10.19 AM-74.png</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.12-78.png</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.16.34 AM-95.png</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.16.51 AM-98.png</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.30-117.png</path>
+<path
+   kind="dir"
+   action="A">/schung42/Assignment2.1/Manual Test Plan.pages/Metadata</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.1/CU_data.json</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.1/Node.py</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.1/StatInfoTest.py</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.1/data.json</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.1/Manual Test Plan.pages/preview.jpg</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.04-63.png</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.1/Manual Test Plan.pages/Metadata/Properties.plist</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.09-72.png</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.1/save_data.json</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.08-69.png</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.14.36 AM-86.png</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.34-121.png</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.18-102.png</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.1/Manual Test Plan Final.pdf</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.19-105.png</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.37-124.png</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.28.19 AM-113.png</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Screen Shot 2015-03-13 at 2.45.22 AM-129.png</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.1/Manual Test Plan.pages/Data/Hardcover_bullet_black-13.png</path>
+</paths>
+<msg>done</msg>
+</logentry>
+<logentry
+   revision="3574">
+<author>schung42</author>
+<date>2015-03-06T07:46:44.714768Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.0/CSAir/Edge.py</path>
+<path
+   kind="dir"
+   action="A">/schung42/Assignment2.0</path>
+<path
+   kind="dir"
+   action="A">/schung42/Assignment2.0/CSAir</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.0/CSAir/.idea/CSAir.iml</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.0/CSAir/.idea/scopes/scope_settings.xml</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.0/CSAir/TextUI.py</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.0/CSAir/.idea/vcs.xml</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.0/CSAir/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.0/CSAir/Main.py</path>
+<path
+   action="A"
+   kind="dir">/schung42/Assignment2.0/CSAir/.idea/scopes</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.0/CSAir/Node.py</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.0/CSAir/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.0/CSAir/.idea/.name</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.0/CSAir/StatInfo.py</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.0/CSAir/StatInfoTest.py</path>
+<path
+   kind="dir"
+   action="A">/schung42/Assignment2.0/CSAir/.idea</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.0/CSAir/data.json</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.0/CSAir/CSAir Manual Test Plan.pdf</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.0/CSAir/Executor.py</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment2.0/CSAir/.idea/modules.xml</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.0/CSAir/Graph.py</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment2.0/CSAir/.idea/encodings.xml</path>
+</paths>
+<msg>Assignment 2.0</msg>
+</logentry>
+<logentry
+   revision="2976">
+<author>schung42</author>
+<date>2015-02-27T08:37:43.542726Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.2/out/test/Assignment 1.1 Chess/KnightTest.class</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.2/out/test/Assignment 1.1 Chess/KingTest.class</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.2/Manual Test Plan.pdf</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.2/out/production/Assignment 1.1 Chess/Bishop.class</path>
+<path
+   kind="dir"
+   action="A">/schung42/Assignment1.2/out/test/Assignment 1.1 Chess</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.2/.idea/scopes/scope_settings.xml</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.2/out/production/Assignment 1.1 Chess/Piece.class</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.2/out/production/Assignment 1.1 Chess/King.class</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.2/out/production/Assignment 1.1 Chess/Player.class</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.2/src/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.2/src/ChessLabel.java</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.2/.idea/uiDesigner.xml</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.2/src/Juggernaut.java</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.2/Doxyfile</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.2/src/Queen.java</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.2/out/production/Assignment 1.1 Chess/Game.class</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.2/.idea/compiler.xml</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.2/out/production/Assignment 1.1 Chess/Juggernaut.class</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.2/src/Knight.java</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.2/src/BoardLayout.java</path>
+<path
+   action="A"
+   kind="dir">/schung42/Assignment1.2/out/production</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.2/src/Board.java</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.2/Assignment 1.1 Chess.iml</path>
+<path
+   kind="dir"
+   action="A">/schung42/Assignment1.2</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.2/out/production/Assignment 1.1 Chess/Board.class</path>
+<path
+   kind="dir"
+   action="A">/schung42/Assignment1.2/out</path>
+<path
+   kind="dir"
+   action="A">/schung42/Assignment1.2/out/production/Assignment 1.1 Chess</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.2/out/production/Assignment 1.1 Chess/Hopper.class</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.2/Test/BishopTest.java</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.2/Test/KingTest.java</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.2/.idea/modules.xml</path>
+<path
+   kind="dir"
+   action="A">/schung42/Assignment1.2/src</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.2/.idea/encodings.xml</path>
+<path
+   action="A"
+   kind="dir">/schung42/Assignment1.2/.idea/copyright</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.2/src/Piece.java</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.2/out/test/Assignment 1.1 Chess/BishopTest.class</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.2/Test/HopperTest.java</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.2/out/test/Assignment 1.1 Chess/BoardTest.class</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.2/out/production/Assignment 1.1 Chess/Knight.class</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.2/Test/RookTest.java</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.2/.idea/vcs.xml</path>
+<path
+   kind="dir"
+   action="A">/schung42/Assignment1.2/.idea/scopes</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.2/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.2/out/test/Assignment 1.1 Chess/PawnTest.class</path>
+<path
+   kind="dir"
+   action="A">/schung42/Assignment1.2/Test</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.2/src/Game.java</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.2/out/test/Assignment 1.1 Chess/RookTest.class</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.2/out/test/Assignment 1.1 Chess/JuggernautTest.class</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.2/out/production/Assignment 1.1 Chess/ChessLabel.class</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.2/out/production/Assignment 1.1 Chess/Pawn.class</path>
+<path
+   action="A"
+   kind="dir">/schung42/Assignment1.2/out/test</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.2/out/production/Assignment 1.1 Chess/Rook.class</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.2/.idea/copyright/profiles_settings.xml</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.2/src/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.2/out/production/Assignment 1.1 Chess/Queen.class</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.2/src/King.java</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.2/src/Player.java</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.2/Test/PawnTest.java</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.2/out/production/Assignment 1.1 Chess/BoardLayout.class</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.2/src/Hopper.java</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.2/out/test/Assignment 1.1 Chess/HopperTest.class</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.2/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.2/Test/JuggernautTest.java</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.2/Test/QueenTest.java</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.2/.idea/.name</path>
+<path
+   kind="dir"
+   action="A">/schung42/Assignment1.2/.idea</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.2/src/Rook.java</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.2/Test/KnightTest.java</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.2/out/test/Assignment 1.1 Chess/QueenTest.class</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.2/Test/BoardTest.java</path>
+</paths>
+<msg>did not complete this weeks work</msg>
+</logentry>
+<logentry
+   revision="2007">
+<author>schung42</author>
+<date>2015-02-19T21:42:48.348833Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/schung42/Assignment1.1/Doxyfile</path>
+</paths>
+<msg>hi</msg>
+</logentry>
+<logentry
+   revision="1991">
+<author>schung42</author>
+<date>2015-02-19T21:09:47.140418Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.1/Doxyfile</path>
+</paths>
+<msg>hi</msg>
+</logentry>
+<logentry
+   revision="1988">
+<author>schung42</author>
+<date>2015-02-19T20:51:14.347657Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/schung42/Assignment1.1/src/Bishop.java</path>
+<path
+   action="M"
+   kind="file">/schung42/Assignment1.1/src/BoardLayout.java</path>
+<path
+   action="M"
+   kind="file">/schung42/Assignment1.1/src/ChessLabel.java</path>
+<path
+   action="M"
+   kind="file">/schung42/Assignment1.1/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/schung42/Assignment1.1/src/Board.java</path>
+</paths>
+<msg>hi</msg>
+</logentry>
+<logentry
+   revision="1980">
+<author>schung42</author>
+<date>2015-02-19T20:23:53.942989Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.1/out/production/Assignment 1.1 Chess/Board.class</path>
+<path
+   action="A"
+   kind="dir">/schung42/Assignment1.1/out</path>
+<path
+   action="A"
+   kind="dir">/schung42/Assignment1.1/out/production/Assignment 1.1 Chess</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.1/out/production/Assignment 1.1 Chess/Hopper.class</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.1/Test/BishopTest.java</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.1/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.1/Test/KingTest.java</path>
+<path
+   action="A"
+   kind="dir">/schung42/Assignment1.1/src</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.1/.idea/encodings.xml</path>
+<path
+   action="A"
+   kind="dir">/schung42/Assignment1.1/.idea/copyright</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.1/src/Piece.java</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.1/out/test/Assignment 1.1 Chess/BishopTest.class</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.1/Test/HopperTest.java</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.1/out/test/Assignment 1.1 Chess/BoardTest.class</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.1/out/production/Assignment 1.1 Chess/Knight.class</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.1/Test/RookTest.java</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.1/.idea/vcs.xml</path>
+<path
+   kind="dir"
+   action="A">/schung42/Assignment1.1/.idea/scopes</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.1/out/test/Assignment 1.1 Chess/PawnTest.class</path>
+<path
+   action="A"
+   kind="dir">/schung42/Assignment1.1/Test</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.1/src/Game.java</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.1/out/test/Assignment 1.1 Chess/RookTest.class</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.1/out/test/Assignment 1.1 Chess/JuggernautTest.class</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.1/out/production/Assignment 1.1 Chess/Pawn.class</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.1/out/production/Assignment 1.1 Chess/ChessLabel.class</path>
+<path
+   kind="dir"
+   action="A">/schung42/Assignment1.1/out/test</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.1/out/production/Assignment 1.1 Chess/Rook.class</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.1/.idea/copyright/profiles_settings.xml</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.1/src/Bishop.java</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.1/out/production/Assignment 1.1 Chess/Queen.class</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.1/src/King.java</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.1/src/Player.java</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.1/Test/PawnTest.java</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.1/src/Hopper.java</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.1/out/production/Assignment 1.1 Chess/BoardLayout.class</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.1/out/test/Assignment 1.1 Chess/HopperTest.class</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.1/Test/JuggernautTest.java</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.1/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.1/Test/QueenTest.java</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.1/.idea/.name</path>
+<path
+   action="A"
+   kind="dir">/schung42/Assignment1.1/.idea</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.1/src/Rook.java</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.1/Test/KnightTest.java</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.1/out/test/Assignment 1.1 Chess/QueenTest.class</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.1/Test/BoardTest.java</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.1/out/test/Assignment 1.1 Chess/KnightTest.class</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.1/out/test/Assignment 1.1 Chess/KingTest.class</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.1/out/production/Assignment 1.1 Chess/Bishop.class</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.1/out/production/Assignment 1.1 Chess/Piece.class</path>
+<path
+   kind="dir"
+   action="A">/schung42/Assignment1.1/out/test/Assignment 1.1 Chess</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.1/.idea/scopes/scope_settings.xml</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.1/out/production/Assignment 1.1 Chess/King.class</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.1/out/production/Assignment 1.1 Chess/Player.class</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.1/src/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.1/src/ChessLabel.java</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.1/.idea/uiDesigner.xml</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.1/src/Juggernaut.java</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.1/src/Queen.java</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.1/out/production/Assignment 1.1 Chess/Game.class</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.1/.idea/compiler.xml</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.1/out/production/Assignment 1.1 Chess/Juggernaut.class</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.1/src/Knight.java</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.1/src/BoardLayout.java</path>
+<path
+   kind="dir"
+   action="A">/schung42/Assignment1.1/out/production</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.1/Assignment 1.1 Chess.iml</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.1/src/Board.java</path>
+<path
+   action="A"
+   kind="dir">/schung42/Assignment1.1</path>
+</paths>
+<msg>hi</msg>
+</logentry>
+<logentry
+   revision="1145">
+<author>schung42</author>
+<date>2015-02-13T07:33:47.510161Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.0/Assignment1.0 | Chess/src/Knight.java</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.0/Assignment1.0 | Chess/src/Bishop.java</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.0/Assignment1.0 | Chess/src/testPiece.java</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.0/Assignment1.0 | Chess/src/Piece.java</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.0/Assignment1.0 | Chess/src/Board.java</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.0/Assignment1.0 | Chess/src/King.java</path>
+<path
+   kind="dir"
+   action="A">/schung42/Assignment1.0/Assignment1.0 | Chess</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.0/Assignment1.0 | Chess/bin/Knight.class</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.0/Assignment1.0 | Chess/bin/Bishop.class</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.0/Assignment1.0 | Chess/.classpath</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.0/Assignment1.0 | Chess/bin/testPiece.class</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.0/Assignment1.0 | Chess/bin/Piece.class</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.0/Assignment1.0 | Chess/src/Player.java</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.0/Assignment1.0 | Chess/bin/Board.class</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.0/Assignment1.0 | Chess/bin/King.class</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.0/Assignment1.0 | Chess/bin/Player.class</path>
+<path
+   action="A"
+   kind="dir">/schung42/Assignment1.0/Assignment1.0 | Chess/bin</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.0/Assignment1.0 | Chess/src/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.0/Assignment1.0 | Chess/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   action="A"
+   kind="dir">/schung42/Assignment1.0/Assignment1.0 | Chess/.settings</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.0/Assignment1.0 | Chess/src/Game.java</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.0/Assignment1.0 | Chess/bin/Pawn.class</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.0/Assignment1.0 | Chess/src/Rook.java</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.0/Assignment1.0 | Chess/.project</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.0/Assignment1.0 | Chess/src/Queen.java</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.0/Assignment1.0 | Chess/bin/Game.class</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment1.0/Assignment1.0 | Chess/bin/Rook.class</path>
+<path
+   action="A"
+   kind="dir">/schung42/Assignment1.0/Assignment1.0 | Chess/src</path>
+<path
+   kind="dir"
+   action="A">/schung42/Assignment1.0</path>
+<path
+   action="A"
+   kind="file">/schung42/Assignment1.0/Assignment1.0 | Chess/bin/Queen.class</path>
+</paths>
+<msg>hi</msg>
+</logentry>
+<logentry
+   revision="422">
+<author>schung42</author>
+<date>2015-02-05T22:58:31.524075Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/schung42/Assignment0</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment0/datastore.c</path>
+<path
+   kind="file"
+   action="A">/schung42/Assignment0/datastore_control.c</path>
+</paths>
+<msg>butts</msg>
+</logentry>
+<logentry
+   revision="420">
+<author>schung42</author>
+<date>2015-02-05T22:54:02.582458Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/schung42/datastore.c</path>
+<path
+   action="A"
+   kind="file">/schung42/datastore_control.c</path>
+</paths>
+<msg>hi</msg>
+</logentry>
+<logentry
+   revision="131">
+<author>root</author>
+<date>2015-02-04T16:45:17.895471Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/schung42</path>
+</paths>
+<msg>created directory schung42</msg>
+</logentry>
+</log>
